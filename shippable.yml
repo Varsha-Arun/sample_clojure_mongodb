@@ -17,3 +17,8 @@ before_script:
 script:
   - cd sample
   - lein test2junit
+  
+notifications:
+ email:
+  - varsha@shippable.com
+
