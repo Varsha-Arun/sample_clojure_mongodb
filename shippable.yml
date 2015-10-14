@@ -19,7 +19,7 @@ script:
   - lein test2junit
   
 notifications:
- email:
+ email:;;
   - varsha@shippable.com
 
 artifact: true
