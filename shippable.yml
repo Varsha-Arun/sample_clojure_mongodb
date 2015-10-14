@@ -22,3 +22,5 @@ notifications:
  email:
   - varsha@shippable.com
 
+artifact: true
+
